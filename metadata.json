@@ -1,0 +1,5 @@
+{
+  "name": "FMC Hong Intramail",
+  "description": "A secure, locally hosted internal messaging and memo system for Federal Medical Centre, Hong. Designed for offline LAN usage with role-based access control.",
+  "requestFramePermissions": []
+}
